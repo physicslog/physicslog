@@ -3,7 +3,7 @@ Namaskar (Na·mas·kar / न·मस्·कार, नमस्कार)<img s
 ![](https://komarev.com/ghpvc/?username=physicslog&color=lightgrey)
 [![GitHub drhere](https://img.shields.io/badge/follow-%40PhysicsLog-1DA1F2?logo=github&style=social&link=https://github.com/physicslog)](https://github.com/physicslog)
 
-I would like to redirect my user profile to [me.rDamodar.com.NP](https://damodarrajbhandari.com.np/) for the dedicated profile.
+I would like to redirect my user profile to [rDamodar.com.NP](https://damodarrajbhandari.com.np/) for the dedicated profile.
 
 See you again!\
 Phe·ri Bhe·tau·la! / फे·रि भे·टौ·ला!\
