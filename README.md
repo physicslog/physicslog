@@ -1,4 +1,4 @@
-<img width="700" alt="dintro" src="https://github.com/user-attachments/assets/e660b905-dcf2-46df-8fa2-614112b8110f" />
+<img width="800" alt="dintro" src="https://github.com/user-attachments/assets/e660b905-dcf2-46df-8fa2-614112b8110f" />
 
 
 ![](https://komarev.com/ghpvc/?username=physicslog&color=lightgrey) 
